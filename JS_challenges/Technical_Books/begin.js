@@ -72,4 +72,3 @@ const CrackingTheCodingInterview = new TechnicalBook(
 console.log("Your book is currently " + CrackingTheCodingInterview.availability);
 //don't forget to add the () when calling the getEdition function. 
 console.log(CrackingTheCodingInterview.getEdition());
-
