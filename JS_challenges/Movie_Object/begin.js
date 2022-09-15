@@ -13,6 +13,8 @@
 // Can use class or function syntax to create movie object:
 //class Movie {} or function Movie(){};
 
+// class syntax below. Class syntax is syntactical sugar
+
 class Movie {
 
   constructor(title, director, genre, releaseYear, rating) {
